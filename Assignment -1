@@ -24,7 +24,7 @@ else:
     print('fail')
 output:enter sno 04
 
-enter sname chandu
+enter sname REDDY
 enter s1 marks 44
 enter s2 marks 55
 enter s3 marks 66
