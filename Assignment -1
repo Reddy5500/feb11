@@ -22,13 +22,13 @@ elif avg>=50:
     print('D grade')
 else:
     print('fail')
-output:enter sno 04
-
-enter sname REDDY
-enter s1 marks 44
-enter s2 marks 55
-enter s3 marks 66
-enter s4 marks 78
-enter s5 marks 80
-enter s6 marks 90
+output:
+enter sno53
+enter snameREDDY
+s1 marks56
+s2 marks69
+s3 marks70
+s4 marks85
+s5 marks90
+s6 marks99
 pass
